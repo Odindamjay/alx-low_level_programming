@@ -11,6 +11,10 @@ int print_sign(int n)
 {
 	if (n > 0)
 	{
-		_putchar('+');
-		return (1);
+	_putchar('+');
+	return (1);
 	} else if (n == 0)
+<<<<<<< HEAD
+=======
+}
+>>>>>>> f9a7e1807630aeb929e5c2ed64e236ed8db49d03
